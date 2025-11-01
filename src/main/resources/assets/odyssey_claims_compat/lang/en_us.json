@@ -1,0 +1,13 @@
+{
+  "itemGroup.odyssey_claims_compat": "Example Mod Tab",
+  "block.odyssey_claims_compat.example_block": "Example Block",
+  "item.odyssey_claims_compat.example_item": "Example Item",
+
+  "odyssey_claims_compat.configuration.title": "Odyssey Claims Mod Compatibility Configs",
+  "odyssey_claims_compat.configuration.section.odyssey_claims_compat.common.toml": "Odyssey Claims Mod Compatibility Configs",
+  "odyssey_claims_compat.configuration.section.odyssey_claims_compat.common.toml.title": "Odyssey Claims Mod Compatibility Configs",
+  "odyssey_claims_compat.configuration.items": "Item List",
+  "odyssey_claims_compat.configuration.logDirtBlock": "Log Dirt Block",
+  "odyssey_claims_compat.configuration.magicNumberIntroduction": "Magic Number Text",
+  "odyssey_claims_compat.configuration.magicNumber": "Magic Number"
+}
